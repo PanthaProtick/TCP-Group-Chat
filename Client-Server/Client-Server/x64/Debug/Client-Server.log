@@ -1,0 +1,5 @@
+﻿E:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Client-Server.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Client.c
+C:\Users\USER\source\repos\Client-Server\Client-Server\Client.c(63,57): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\USER\source\repos\Client-Server\Client-Server\Client.c(93,46): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  Client-Server.vcxproj -> C:\Users\USER\source\repos\Client-Server\x64\Debug\Client.exe

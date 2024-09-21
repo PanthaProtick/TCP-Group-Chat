@@ -1,0 +1,11 @@
+﻿  Server.c
+C:\Users\USER\source\repos\Multi Client Handling Server\Multi Client Handling Server\Server.c(87,31): warning C4244: 'function': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\USER\source\repos\Multi Client Handling Server\Multi Client Handling Server\Server.c(104,28): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+      C:\Users\USER\source\repos\Multi Client Handling Server\Multi Client Handling Server\Server.c(104,28):
+      consider using '%lld' in the format string
+      C:\Users\USER\source\repos\Multi Client Handling Server\Multi Client Handling Server\Server.c(104,28):
+      consider using '%Id' in the format string
+      C:\Users\USER\source\repos\Multi Client Handling Server\Multi Client Handling Server\Server.c(104,28):
+      consider using '%I64d' in the format string
+  
+  Multi Client Handling Server.vcxproj -> C:\Users\USER\source\repos\Multi Client Handling Server\x64\Debug\Multi Client Handling Server.exe
